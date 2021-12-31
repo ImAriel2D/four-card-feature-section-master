@@ -10,10 +10,11 @@
   --color-grayish-blue: hsl(229, 6%, 66%);
   --color-very-light-gray: hsl(0, 0%, 98%);
   
-  --font-size-sm: 0.75rem;
-  --font-size-md: 1rem;
-  --font-size-ld: 1.125rem;
-  --font-size-xg: 1.5rem;
+  --font-size-xs: 0.75rem;
+  --font-size-sm: 1rem;
+  --font-size-md: 1.25rem;
+  --font-size-l: 1.5rem;
+  --font-size-xl: 1.75rem;
 }
 
 * {
